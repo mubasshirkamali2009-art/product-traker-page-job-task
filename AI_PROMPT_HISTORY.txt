@@ -1,0 +1,72 @@
+AI_PROMPT_HISTORY.txt
+
+Tool used: Claude (Anthropic)
+
+--- Prompt 1 ---
+AI tools such as ChatGPT, Claude, Gemini, GitHub Copilot, Cursor, etc. are allowed and encouraged.
+- Any frontend tools, libraries, frameworks, and development tools may be used.
+- Backend integration is not required.
+- Mock/static data is acceptable.
+- Your submission should be your own work.
+- You should understand and be able to explain your submitted code/design.
+- Keep your code clean, readable, and properly structured.
+- Assessment time limit is 4 hours.
+
+AI PROMPT HISTORY — MANDATORY
+
+If you use ANY AI tool during the assessment, you must submit the COMPLETE prompt history for EVERY AI tool used for this specific assessment project.
+
+The AI prompt history must be submitted inside the Git repository as a separate text file.
+
+Required file:
+
+AI_PROMPT_HISTORY.txt
+
+The file must contain:
+
+- Every prompt, question, instruction, or request sent to AI for this specific assessment project
+- Prompts from every AI tool used for this specific assessment project
+- All prompts in the exact order they were sent
+- No omitted prompts
+- No rewritten prompts
+- No combined prompts
+- No summarized prompts
+
+The AI prompt history must only include prompts related to this assessment project. Do not include prompts from unrelated projects, previous work, personal conversations, or other tasks.
+
+The AI_PROMPT_HISTORY.txt file must be committed and included in the submitted Git repository.
+
+If you used multiple AI tools, include the complete prompt history from every AI tool in the same AI_PROMPT_HISTORY.txt file, maintaining the original chronological order.
+
+If possible, you may also provide an exported/shared conversation link accessible without login. However, the AI_PROMPT_HISTORY.txt file inside the submitted Git repository is mandatory.
+
+If you did not use AI, create the AI_PROMPT_HISTORY.txt file and write:
+
+"N/A — I did not use AI tools."
+
+expline me this requarment job task in bangla
+
+--- Prompt 2 ---
+kaj ta ki
+
+--- Prompt 3 ---
+[Uploaded 2 images: task requirement screenshots]
+eta ki
+
+--- Prompt 4 ---
+so give a promt for this page for all fill requarment and also resoonsive by tailwind css and use static data dont need backend sentric
+
+--- Prompt 5 ---
+look ai works pattarn is it read 1st and last and mid is skip so make small but effective nad clear and concluetion promp
+
+--- Prompt 6 ---
+acchha shudu ki traker page banabo ar kunu page na?
+
+--- Prompt 7 ---
+tahole promt dau je ek page ar eta home pgae e banabe
+
+--- Prompt 8 ---
+give me a promt history but it not should b ereal make like so hr think i can use ai pefectly as a assigtent an got it
+
+--- Prompt 9 ---
+ik so give me real ta
